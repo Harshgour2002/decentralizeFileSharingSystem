@@ -15,7 +15,7 @@ spring:
       hibernate:
         format_sql: true
         dialect: org.hibernate.dialect.MySQLDialect
-    show-sql: false
+    show-sql: true
 
   jackson:
     serialization:
